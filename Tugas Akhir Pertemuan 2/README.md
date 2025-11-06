@@ -2,7 +2,7 @@
 
 
 
-!\[Teks alternatif]("Gambar Topologi.png")
+!\[Teks alternatif](Gambar20%Topologi.png)
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-!\[Teks alternatif]("Gambar Hasil Ping.png")
+!\[Teks alternatif](Gambar20%Hasil20%Ping.png)
 
 
 
