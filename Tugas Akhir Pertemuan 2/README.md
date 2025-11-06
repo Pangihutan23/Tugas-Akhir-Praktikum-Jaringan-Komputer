@@ -2,7 +2,7 @@
 
 
 
-!\[Teks alternatif](Gambar Topologi)
+!\[Teks alternatif](Gambar Topologi.png)
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-!\[Teks alternatif](Gambar Hasil Ping)
+!\[Teks alternatif](Gambar Hasil Ping.png)
 
 
 
@@ -23,6 +23,4 @@
 
 
 https://youtu.be/SFX8HUhyDdg
-
-
 
