@@ -2,7 +2,7 @@
 
 
 
-!\[Teks alternatif](Gambar20%Topologi.png)
+!\[Teks alternatif](Gambar\_Topologi.png)
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-!\[Teks alternatif](Gambar20%Hasil20%Ping.png)
+!\[Teks alternatif](Gambar\_Hasil\_Ping.png)
 
 
 
